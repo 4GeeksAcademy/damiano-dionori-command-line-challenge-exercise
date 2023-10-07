@@ -1,0 +1,265 @@
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge (master) $ cd thecmdchallenge/
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge (master) $ pwd
+/workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge (master) $ ls -la
+total 28
+drwxrwxrwx+ 6 node root 4096 Oct  4 18:36 .
+drwxrwxrwx+ 9 node root 4096 Oct  4 14:48 ..
+drwxrwxrwx+ 3 node root 4096 Oct  4 14:47 boringfolder
+-rw-rw-rw-  1 node root  847 Oct  4 14:47 console_master.md
+drwxrwxrwx+ 4 node root 4096 Oct  4 14:47 funcode
+drwxrwxrwx+ 2 node root 4096 Oct  4 14:47 kamehameha
+drwxrwxrwx+ 3 node root 4096 Oct  4 14:47 small-name
+-rw-rw-rw-  1 node node    0 Oct  4 18:41 trophy.txt
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge (master) $ ls -r
+trophy.txt  small-name  kamehameha  funcode  console_master.md  boringfolder
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge (master) $ cd thecmdchallenge
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name  trophy.txt
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge (master) $ cd small-name
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge/small-name (master) $ ls
+bigger-name-than-before
+@damianodionori ➜ /workspaces/damiano-dionori-Command-Line-Challenge/thecmdchallenge/small-name (master) $ cd bigger-name-than-before/
+@damianodionori ➜ .../damiano-dionori-Command-Line-Challenge/thecmdchallenge/small-name/bigger-name-than-before (master) $ ls
+omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type
+@damianodionori ➜ .../damiano-dionori-Command-Line-Challenge/thecmdchallenge/small-name/bigger-name-than-before (master) $ cd omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/
+@damianodionori ➜ .../thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type (master) $ ls
+this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+@damianodionori ➜ .../thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type (master) $ cd this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/
+@damianodionori ➜ .../small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ ls
+trophy.txt
+@damianodionori ➜ .../small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ cat trophy.txt 
+MMMMMMMMMMMNhoooooooooosyymMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdysooo++oo+ooymMMMMMMMM
+MMMMMMMMMMNsohMMMMMMMNNmho/hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNsohdmNMMMMMMMdo+dMMMMMMM
+MMMMMMMMMMh+yMMMMMMMMMMMMs++NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+oMMMMMMMMMMMMho/MMMMMMM
+MMMMMMMMMMs+hMMMMMMMMMMMMy+/NMMMMMNNNmmddddddddddhhhhhhhhdddmmmmNNNMMMMMMMMd+oMMMMMMMMMMMMmo/dMMMMMM
+MMMMMMMMMMy+hMMMMMMMMMMMMh+/dNhysssoooooooooooo++++++++++ooooossssssyyhhdNMy+yMMMMMMMMMMMMdo/dMMMMMM
+MMMMMMMMMMh+sMMMMMMMMMMMMNho++oossoooooooo+++++/////////++++++ooooooosssooo+yNMMMMMMMMMMMMy+/NMMMMMM
+MMMMMMMMMMNo+mMMMMMMMMMMMMMMNmossssooooo++++++///////////+++++ooooooosysodmNMMMMMMMMMMMMMNs+oMMMMMMM
+MMMMMMMMMMMy+oMMMMMMMMMMMMMMMmoossoooooo++++++///////////+++++ooooooosssomMMMMMMMMMMMMMMMh+/mMMMMMMM
+MMMMMMMMMMMNo/hMMMMMMMMMMMMMMmoossoooooo+++++////////////+++++++++++osso+mMMMMMMMMMMMMMMmo/yMMMMMMMM
+MMMMMMMMMMMMd++dMMMMMMMMMMMMMNoossoo+++++++++////////////+++++++++++osso+mMMMMMMMMMMMMMNs/+NMMMMMMMM
+MMMMMMMMMMMMMh++mMMMMMMMMMMMMmoooso++++++++++////////////+++++++++++osso+NMMMMMMMMMMMMNy++mMMMMMMMMM
+MMMMMMMMMMMMMMy/+mMMMMMMMMMMMNo+ooo+++++++++++///////////+++++++++++oso++NMMMMMMMMMMMMy//mMMMMMMMMMM
+MMMMMMMMMMMMMMMy//dMMMMMMMMMMNo++o++++++++++++///////////+++++++++/+ooo+oNMMMMMMMMMMMy//mMMMMMMMMMMM
+MMMMMMMMMMMMMMMMh+/hMMMMMMMMMMs+++++++//+++++++/////////+++++++////+oo+/sMMMMMMMMMMNs/+mMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMh+/yMMMMMMMMMy/+++//////+++++++///////+++++++/////+oo+/yMMMMMMMMMNo/oNMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMmo/+mMMMMMMMm//++///////++++++++///+++++++++/////+o+//mMMMMMMMMd+/yMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNy//yNMMMMMMo///////////++++++++++++++++++//////+o//oMMMMMMMNs/+mMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMdo/+dMMMMMd///////////////////////////////::/+++//dMMMMMNh//yNMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMNh+:omMMMMs/////:::::::::::::::::::::::::::/++/:sMMMMNh//sNMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMmy//omMMN+////::::::::::::::::::::::::::/++/:+NMMNh//smMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMmy//odMm/////:::::::::::::::::::::::::/+/:/mMms//smMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+/+yh/////:::::::::::::::::::::::/+/::yh+/+hmMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNds+//::///::::::::::---------::/+/::/++ydNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNdyo/::/:::---------------:://::/oydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh/:::::-------------::/::/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh+:---------------:::+hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmdso/:-------::/ohmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNh:::---/dmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/:::::sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+//:::dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs+//::NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMd++/:+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdo+/:+NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNyoo+/:/odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmyo+/:/hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+/:oMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs+/:yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmo+//sMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo+/+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmdhooo+/+oddmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhssyssoo++oosysydNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNmhysoooooooooooooooooooshmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNhsoooooooooooooooooooooooooosymNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNmdhssooooooooooooooooossyyhdmNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNmmdddhhhhhhhhhdddmmNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddddyyyyyysssssssssssssssssyddddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddhy+++////:::::-----------/ohddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMdddddddddy++++////:::::-------------hddddddddddmMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMNdddddddddho+++////:::::-----------::hddddddddddmNMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmddddddddddoo+++++////////////////oddddddddddddmNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMddddddddddddddddddddddddddddddddddddddddddddddddddddddMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMNNNNNNNNmddddddddddddddddddddddddddddddddddddddddddddddddddddmNNNNNNNNMMMMMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMM
+MMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMM@damianodionori ➜ .../small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/small-name (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd funcode/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls
+baby.jpg             forms.1.html     keyboard.html  regexer.css        the-most-funny
+baby.success.1.jpg   forms.html       kids.1.jpg     regexer.js         valid.png
+baby.success.jpg     frame.1.html     kids.jpg       rigoberto.1.jpg    view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+borat.success.1.jpg  frame.html       mouse.1.html   rigoberto.jpg
+borat.success.jpg    images           mouse.html     scared-baby.1.jpg
+einstein.1.png       invalid.png      regexer.1.css  scared-baby.jpg
+einstein.png         keyboard.1.html  regexer.1.js   script.js
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls *.js*
+regexer.1.js  regexer.js  script.js
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd funcode/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls
+baby.jpg             forms.1.html     keyboard.html  regexer.css        the-most-funny
+baby.success.1.jpg   forms.html       kids.1.jpg     regexer.js         valid.png
+baby.success.jpg     frame.1.html     kids.jpg       rigoberto.1.jpg    view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+borat.success.1.jpg  frame.html       mouse.1.html   rigoberto.jpg
+borat.success.jpg    images           mouse.html     scared-baby.1.jpg
+einstein.1.png       invalid.png      regexer.1.css  scared-baby.jpg
+einstein.png         keyboard.1.html  regexer.1.js   script.js
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ cd the-most-funny/
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ ls
+lol
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ mkdir not-that-funny
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ ls
+lol  not-that-funny
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ 
+
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd boringfolder/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder (master) $ ls
+babel.png               c9.png    dropzone.js       hello.txt  jquery.png  sass.png      webpack.png
+breathecode.shadow.png  css3.png  even-more-boring  html5.png  js.png      scale.fix.js
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder (master) $ cd even-more-boring/
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder/even-more-boring (master) $ ls
+i-cant-believe-how-boring
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder/even-more-boring (master) $ cd i-cant-believe-how-boring/
+@damianodionori ➜ .../thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring (master) $ ls
+the-ultimate-boring-inception
+@damianodionori ➜ .../thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring (master) $ cd the-ultimate-boring-inception/
+@damianodionori ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ ls
+myfirstcopy.txt  the-mostboring-text.txt
+@damianodionori ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ cp the-mostboring-text.txt lol.txt
+@damianodionori ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ ls
+lol.txt  myfirstcopy.txt  the-mostboring-text.txt
+@damianodionori ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ 
+
+@damianodionori ➜ .../boringfolder/even-more-boring/i-cant-believe-how-boring/the-ultimate-boring-inception (master) $ cd ..
+@damianodionori ➜ .../thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring (master) $ cd..
+bash: cd..: command not found
+@damianodionori ➜ .../thecmdchallenge/boringfolder/even-more-boring/i-cant-believe-how-boring (master) $ cd ..
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder/even-more-boring (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd funcode/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls
+baby.jpg             forms.1.html     keyboard.html  regexer.css        the-most-funny
+baby.success.1.jpg   forms.html       kids.1.jpg     regexer.js         valid.png
+baby.success.jpg     frame.1.html     kids.jpg       rigoberto.1.jpg    view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+borat.success.1.jpg  frame.html       mouse.1.html   rigoberto.jpg
+borat.success.jpg    images           mouse.html     scared-baby.1.jpg
+einstein.1.png       invalid.png      regexer.1.css  scared-baby.jpg
+einstein.png         keyboard.1.html  regexer.1.js   script.js
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ mv kids.jpg funcode/images/hello
+mv: cannot move 'kids.jpg' to 'funcode/images/hello': No such file or directory
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ mv kids.jpg images/hello
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls
+baby.jpg             einstein.png  invalid.png      regexer.1.css    scared-baby.1.jpg
+baby.success.1.jpg   forms.1.html  keyboard.1.html  regexer.1.js     scared-baby.jpg
+baby.success.jpg     forms.html    keyboard.html    regexer.css      script.js
+borat.success.1.jpg  frame.1.html  kids.1.jpg       regexer.js       the-most-funny
+borat.success.jpg    frame.html    mouse.1.html     rigoberto.1.jpg  valid.png
+einstein.1.png       images        mouse.html       rigoberto.jpg    view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha  small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ rm -r small-name
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise (master) $ ls
+assets      index.js    node_modules  package-lock.json  README.es.md  server.js  thecmdchallenge  webpack.config.js
+index.html  learn.json  package.json  preview.png        README.md     slides     Untitled
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise (master) $ cd thecmdchallenge
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd funcode
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ ls
+baby.jpg             einstein.png  invalid.png      regexer.1.css    scared-baby.1.jpg
+baby.success.1.jpg   forms.1.html  keyboard.1.html  regexer.1.js     scared-baby.jpg
+baby.success.jpg     forms.html    keyboard.html    regexer.css      script.js
+borat.success.1.jpg  frame.1.html  kids.1.jpg       regexer.js       the-most-funny
+borat.success.jpg    frame.html    mouse.1.html     rigoberto.1.jpg  valid.png
+einstein.1.png       images        mouse.html       rigoberto.jpg    view-source_projects.breathecode.local_p_php_senior_msql_mysql-tester_.htm
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode (master) $ cd the-most-funny/
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ ls
+lol  not-that-funny
+@damianodionori ➜ .../damiano-dionori-command-line-challenge-exercise/thecmdchallenge/funcode/the-most-funny (master) $ cd lol
+@damianodionori ➜ .../thecmdchallenge/funcode/the-most-funny/lol (master) $ ls
+the-ultimate-joke.txt
+@damianodionori ➜ .../thecmdchallenge/funcode/the-most-funny/lol (master) $ cat the-ultimate-joke.txt 
+What do you call a programmer from Finland? ..... NERDIC!
+
+Got it?? :)
+@damianodionori ➜ .../thecmdchallenge/funcode/the-most-funny/lol (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise (master) $ cd thecmdchallenge
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ cd boringfolder/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder (master) $ ls
+even-more-boring
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge/boringfolder (master) $ cd ..
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+boringfolder  console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ rm boringfolder/ -rf
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ 
+
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise (master) $ cd thecmdchallenge/
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ ls
+console_master.md  funcode  kamehameha
+@damianodionori ➜ /workspaces/damiano-dionori-command-line-challenge-exercise/thecmdchallenge (master) $ vi kamehameha/dragon-ball-jokes.md
+
+
+How many Super Saiyans does it take to change a light bulb? Just one, but it will take him five episodes.
+
+I don't find Dragon Ball Z jokes to be funny..... "Just Saiyan"
+
+What do Saiyans wear to the beach? Trunks.
+
+What did Vegeta say when he got his tuition bill? "It's over 9000"
+
+Where does Vegeta get the energy to fly? Red Bullma, it gives you wings.
+
+What is Goku's favorite instrument of destruction? A Piccolo (flute).
+
+How do you get in touch with an android? By using a CELL Phone.
+
+Did you know Frieza wasn't very popular in school? His brother was COOLER.
+
+Me: How do you make Dragon Ball Z less gay? Shenron: "Your wish is far beyond my power."
+
+What does an elite saiyan warrior need to fix a car? Nappa know how.
+
+I cut off a monkeys tail and now he's just a vegeta-ble.
+
+Hey, Vegeta I heard you have a hole in your Trunks. -Cell
+
+source: http://www.jokes4us.com/peoplejokes/dragonballzjokes.html
+~                                                                                                                                                              
+~                                                                                                                                                              
+"dragon-ball-jokes.md" 29 lines, 1003 bytes
